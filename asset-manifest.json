@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sammy_yuntin/register/static/css/main.e6c13ad2.css",
+    "main.js": "/sammy_yuntin/register/static/js/main.872382e6.js",
+    "index.html": "/sammy_yuntin/register/index.html",
+    "main.e6c13ad2.css.map": "/sammy_yuntin/register/static/css/main.e6c13ad2.css.map",
+    "main.872382e6.js.map": "/sammy_yuntin/register/static/js/main.872382e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.872382e6.js"
+  ]
+}
